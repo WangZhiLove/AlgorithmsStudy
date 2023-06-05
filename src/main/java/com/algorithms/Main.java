@@ -1,19 +1,63 @@
 package com.algorithms;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+
 public class Main {
     public static void main(String[] args) {
-        // Press Opt+Enter with your caret at the highlighted text to see how
-        // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
-
-        // Press Ctrl+R or click the green arrow button in the gutter to run the code.
-        for (int i = 1; i <= 5; i++) {
-
-            // Press Ctrl+D to start debugging your code. We have set one breakpoint
-            // for you, but you can always add more by pressing Cmd+F8.
-            System.out.println("i = " + i);
+        int[] arr = {1, 3, 2, 5, 4};
+        mergeSort(arr);
+        for (int i : arr) {
+            System.out.println(i);
         }
     }
+
+    /**
+     * 归并排序
+     *
+     * @param arr
+     */
+    public static void mergeSort(int[] arr) {
+        merge(arr, 0, arr.length - 1);
+    }
+
+    private static void merge(int[] arr, int start, int end) {
+        if (start < end) {
+            int middle = (start + end) / 2;
+            merge(arr, start, middle);
+            merge(arr, middle + 1, end);
+            mergeSort(arr, start, middle, end);
+        }
+    }
+
+    private static void mergeSort(int[] arr, int start, int middle, int end) {
+        int leftLen = middle - start + 1;
+        int rightLen = end - middle;
+        int[] leftArr = new int[leftLen];
+        int[] rightArr = new int[rightLen];
+        for (int i = 0; i < leftLen; i++) {
+            leftArr[i] = arr[start + i];
+        }
+        for (int i = 0; i < rightLen; i++) {
+            rightArr[i] = arr[middle + i + 1];
+        }
+        int leftIndex = 0;
+        int rightIndex = 0;
+        int arrIndex = start;
+        while (leftIndex < leftLen && rightIndex < rightLen) {
+            if (leftArr[leftIndex] < rightArr[rightIndex]) {
+                arr[arrIndex++] = leftArr[leftIndex++];
+            } else {
+                arr[arrIndex++] = rightArr[rightIndex++];
+            }
+        }
+        while (rightIndex < rightLen) {
+            arr[arrIndex++] = rightArr[rightIndex++];
+        }
+        while (leftIndex < leftLen) {
+            arr[arrIndex++] = leftArr[leftIndex++];
+        }
+
+    }
+
 }
+
+
