@@ -21,6 +21,7 @@
 
 例题：
 1. [1991. 找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/)
+2. [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
 
 ### 链表
 
