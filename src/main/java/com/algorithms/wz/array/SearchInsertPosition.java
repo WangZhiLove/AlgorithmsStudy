@@ -39,7 +39,6 @@ public class SearchInsertPosition {
         return leftIndex;
     }
 
-
     public static int searchInsert2(int[] nums, int target) {
         int leftIndex = 0, rightIndex = nums.length - 1;
         while (leftIndex <= rightIndex) {
@@ -55,4 +54,5 @@ public class SearchInsertPosition {
         }
         return leftIndex;
     }
+
 }

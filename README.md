@@ -13,15 +13,55 @@
 
 列表的定义是按照一定的顺序，排列而成的数据集，在列表的基础上形成的概念，列表中的元素是同一类型且长度可变的。
 
-数组是列表的实现方式之一，是一种线性表数据结构，它用一组连续的内存空间，来存储一组具有相同类型的数据。大部分变成语言的数组下标是从 0
+数组是列表的实现方式之一，是一种线性表数据结构，它用一组连续的内存空间，来存储一组具有相同类型的数据。大部分变成语言的数组下标是从
+0
 开始的，所以数组的第一个元素的下标是 0，最后一个元素的下标是 n-1，n 表示数组的长度。
 
 数组的优点是可以随机访问，根据下标随机访问的时间复杂度是 O(1)，但是数组的缺点也很明显，那就是插入和删除的时间复杂度是 O(n)
 ，因为数组是连续的内存空间，所以在插入和删除的时候，需要移动后面的元素，所以时间复杂度是 O(n)。
 
 例题：
+
 1. [1991. 找到数组的中间位置](https://leetcode.cn/problems/find-the-middle-index-in-array/)
-2. [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/)
+   ：这道题目让我学到了算法和数学是息息相关的，不要看做两件事情，数学推理在算法中往往是非常有用的。
+2. [35. 搜索插入位置](https://leetcode.cn/problems/search-insert-position/)：这道题目让我学到了什么呢？算是二分查找的使用，二分查找关键的是边界问题，看
+   right 如何定义，如果是等于数组长度，则 middle 在 right 对比的时候就不需要 - 1，直接看模板更好理解。
+   ```
+    public int searchInsert(int[] nums, int target) {
+        int left = 0, right = nums.length - 1; // 注意
+        while(left <= right) { // 注意
+            int mid = (left + right) / 2;
+            if(nums[mid] == target) {
+                // 相关逻辑
+            } else if(nums[mid] < target) {
+                left = mid + 1; // 注意
+            } else {
+                right = mid - 1; // 注意
+            }
+        }
+        // 相关返回值
+        return 0;
+    }
+
+   public int searchInsert ( int[] nums, int target){
+      int left = 0, right = nums.length; // 注意
+      while (left < right) { // 注意
+          int mid = (left + right) / 2; 
+          if (nums[mid] == target) {
+              // 相关逻辑
+          } else if (nums[mid] < target) {
+              left = mid + 1; // 注意
+          } else {
+              right = mid; // 注意
+          }
+      }
+      // 相关返回值
+      return 0;
+   }
+   ```
+3. [56. 合并区间](https://leetcode.cn/problems/merge-intervals/)
+   ：这倒题目让我学到了什么呢？一个是数组结构的使用，我发现我有的时候太死板了，不会灵活使用数据结构，其次思想有些固化，排序等
+   api 使用的不太好，这可不太好。
 
 ### 链表
 
