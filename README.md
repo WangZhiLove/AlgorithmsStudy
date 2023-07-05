@@ -68,7 +68,8 @@
    api 使用的不太好，这可不太好。
 4. [48. 旋转图像](https://leetcode.cn/problems/rotate-image/)：这道题目独立做出，就是花费的时间有点久，找规律花费太久了，不过算是有所成果
 5. [面试题 01.08. 零矩阵](https://leetcode.cn/problems/zero-matrix-lcci/): 这道题目其实并不难理解，双层 for 循环就可以解决，比较容易
-
+6. [498. 对角线遍历](https://leetcode.cn/problems/diagonal-traverse/):
+   这道题目难住我了，就是找规律，从对角线找规律，而且逻辑比较复杂，关键难点其实在于到了下三角应该如何去转换，记住了大部分数组题目都要用到长度的。
 
 ### 链表
 
