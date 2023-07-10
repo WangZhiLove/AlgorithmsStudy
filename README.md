@@ -84,6 +84,7 @@
 
 1. [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/)
    ：暴力破解，没有什么难度，这道题目唯一的收获就是还可以使用分治的思想来解决，这个思想还是很有意思的。
+2. [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)
 
 ### 链表
 
