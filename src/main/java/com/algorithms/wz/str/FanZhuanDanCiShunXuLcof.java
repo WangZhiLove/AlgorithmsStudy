@@ -43,15 +43,18 @@ public class FanZhuanDanCiShunXuLcof {
         int lastIndex;
         for (int i = s.length() - 1; i >= 0;) {
             lastIndex = i;
+            // 双指针，获取区间
             while(i >= 0 && s.charAt(i) != ' ') {
                 i --;
             }
+            // 截取
             sb.append(s.substring(i + 1, lastIndex + 1).trim()).append(" ");
             // 防止出现连续的空格，也可以改写成 if，把 append 放在 if 里面
             while (i >= 0 && s.charAt(i) == ' ') {
                 i --;
             }
         }
+        // 去掉多余的空格
         return sb.toString().trim();
     }
 }
