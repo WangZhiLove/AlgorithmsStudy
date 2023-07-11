@@ -85,6 +85,10 @@
 1. [14. 最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/)
    ：暴力破解，没有什么难度，这道题目唯一的收获就是还可以使用分治的思想来解决，这个思想还是很有意思的。
 2. [5. 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/)：中心扩散的思想，get
+3. [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/)
+   ：这道题目同 [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
+   ，题目看似不难，但是细节挺多，不认真写一个还真是不知道呀，所以 talk is cheap，show me the code 是没有错的呀！换一种思路，使用
+   O(1) 的空间复杂度效果更好呀
 
 ### 链表
 
