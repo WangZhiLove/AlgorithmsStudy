@@ -89,6 +89,8 @@
    ：这道题目同 [151. 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string/)
    ，题目看似不难，但是细节挺多，不认真写一个还真是不知道呀，所以 talk is cheap，show me the code 是没有错的呀！换一种思路，使用
    O(1) 的空间复杂度效果更好呀
+4. [实现 strStr()](https://leetcode.cn/leetbook/read/array-and-string/cm5e2/)：这道题目应该用 KMP 算法来解决，后面认真学习一下
+   KMP，现在先暴力破解看看，暴力破解完成，KMP 算法加入待办列表
 
 ### 链表
 
