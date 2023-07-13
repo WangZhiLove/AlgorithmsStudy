@@ -1,4 +1,4 @@
-package com.algorithms.wz.str;
+package com.algorithms.wz.data.structure.str;
 
 /**
  * <a href="https://leetcode.cn/problems/longest-common-prefix/">14. 最长公共前缀</a>

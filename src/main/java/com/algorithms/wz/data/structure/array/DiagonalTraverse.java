@@ -1,4 +1,4 @@
-package com.algorithms.wz.array;
+package com.algorithms.wz.data.structure.array;
 
 /**
  * <a href="https://leetcode.cn/problems/diagonal-traverse/">498. 对角线遍历</a>

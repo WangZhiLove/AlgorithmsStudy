@@ -1,4 +1,4 @@
-package com.algorithms.wz.str;
+package com.algorithms.wz.data.structure.str;
 
 /**
  * <a href="https://leetcode-cn.com/problems/implement-strstr/">28. 实现 strStr()</a>

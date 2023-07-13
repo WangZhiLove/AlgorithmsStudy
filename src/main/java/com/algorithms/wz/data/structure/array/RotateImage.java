@@ -1,4 +1,4 @@
-package com.algorithms.wz.array;
+package com.algorithms.wz.data.structure.array;
 
 import java.util.Arrays;
 

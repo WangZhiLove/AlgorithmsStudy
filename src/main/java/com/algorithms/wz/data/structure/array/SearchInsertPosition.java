@@ -1,4 +1,4 @@
-package com.algorithms.wz.array;
+package com.algorithms.wz.data.structure.array;
 
 /**
  * <a href="https://leetcode.cn/problems/search-insert-position/">35. 搜索插入位置</a>
