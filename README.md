@@ -168,3 +168,4 @@ PriorityQueue 是 Java 中的堆的实现。
 
 技巧一：左右指针：
 1. [344. 反转字符串](https://leetcode.cn/problems/reverse-string/): 典型的左右指针，没有什么难度
+2. [561. 数组拆分](https://leetcode.cn/problems/array-partition/): 先排序后偶数下标之和，就是感觉和双指针没有关系呢？
