@@ -169,4 +169,8 @@ PriorityQueue 是 Java 中的堆的实现。
 技巧一：左右指针：
 1. [344. 反转字符串](https://leetcode.cn/problems/reverse-string/): 典型的左右指针，没有什么难度
 2. [561. 数组拆分](https://leetcode.cn/problems/array-partition/): 先排序后偶数下标之和，就是感觉和双指针没有关系呢？
-2. [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/): 没什么难度，双指针飘过
+3. [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/): 没什么难度，双指针飘过
+
+技巧二：快慢指针，两个指针通向移动，前提也基本需要给数组排序：
+1. [27. 移除元素](https://leetcode.cn/problems/remove-element/): 没什么难度，代码简单，思路简单，快慢指针搞定
+2. [485. 最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/): 也基本简单，就是长度判断以及 ++ 的时候出了点小问题，问题不大
