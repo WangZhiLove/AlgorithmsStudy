@@ -73,6 +73,7 @@
 
 数组的其它例题：
 1. [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/): 找到规律，也就是当前元素等于什么，边界如何考虑就很容易做出来了
+2. [119. 杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/): 递归的方式解决，感觉代码写的复杂，但是时间复杂度很低，原因在于计算量少了一半
 
 ### 字符串
 

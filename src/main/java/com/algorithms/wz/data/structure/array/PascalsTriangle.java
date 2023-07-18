@@ -16,7 +16,7 @@ import java.util.List;
 public class PascalsTriangle {
 
     public static void main(String[] args) {
-        List<List<Integer>> generate = generate(1);
+        List<List<Integer>> generate = generate(4);
         for (List<Integer> list : generate) {
             for (Integer integer : list) {
                 System.out.print(integer + "  ");
