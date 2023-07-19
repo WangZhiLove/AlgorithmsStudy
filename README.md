@@ -77,6 +77,8 @@
 2. [119. 杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/): 递归的方式解决，感觉代码写的复杂，但是时间复杂度很低，原因在于计算量少了一半
 3. [153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/):
    二分查找的变种，学到了在没有相等判断的时候，边界问题需要重新考虑
+4. [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/):
+   快慢指针解决，思路没有问题，但是写出来的代码还是千差万别，最后还有一个可优化的地方，就是复制元素的时候如果距离为 1 就不需要复制
 
 ### 字符串
 
