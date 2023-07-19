@@ -95,6 +95,7 @@
    O(1) 的空间复杂度效果更好呀
 4. [实现 strStr()](https://leetcode.cn/leetbook/read/array-and-string/cm5e2/)：这道题目应该用 KMP 算法来解决，后面认真学习一下
    KMP，现在先暴力破解看看，暴力破解完成，KMP 算法加入待办列表
+5. [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/): 分别使用原地算法和额外的空间来解决，原地算法的空间复杂度低
 
 ### 链表
 
