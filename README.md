@@ -72,8 +72,11 @@
    这道题目难住我了，就是找规律，从对角线找规律，而且逻辑比较复杂，关键难点其实在于到了下三角应该如何去转换，记住了大部分数组题目都要用到长度的。
 
 数组的其它例题：
+
 1. [118. 杨辉三角](https://leetcode.cn/problems/pascals-triangle/): 找到规律，也就是当前元素等于什么，边界如何考虑就很容易做出来了
 2. [119. 杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/): 递归的方式解决，感觉代码写的复杂，但是时间复杂度很低，原因在于计算量少了一半
+3. [153. 寻找旋转排序数组中的最小值](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/):
+   二分查找的变种，学到了在没有相等判断的时候，边界问题需要重新考虑
 
 ### 字符串
 
@@ -95,7 +98,8 @@
    O(1) 的空间复杂度效果更好呀
 4. [实现 strStr()](https://leetcode.cn/leetbook/read/array-and-string/cm5e2/)：这道题目应该用 KMP 算法来解决，后面认真学习一下
    KMP，现在先暴力破解看看，暴力破解完成，KMP 算法加入待办列表
-5. [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/): 分别使用原地算法和额外的空间来解决，原地算法的空间复杂度低
+5. [557. 反转字符串中的单词 III](https://leetcode.cn/problems/reverse-words-in-a-string-iii/):
+   分别使用原地算法和额外的空间来解决，原地算法的空间复杂度低
 
 ### 链表
 
@@ -172,11 +176,15 @@ PriorityQueue 是 Java 中的堆的实现。
 双指针的技巧在数组和字符串中经常使用，核心思想是使用两个指针，分别指向数组或者字符串的不同位置，然后协同完成人任务，当然不仅仅适用于数组和字符串，链表、树等也可以使用双指针技巧。
 
 技巧一：左右指针：
+
 1. [344. 反转字符串](https://leetcode.cn/problems/reverse-string/): 典型的左右指针，没有什么难度
 2. [561. 数组拆分](https://leetcode.cn/problems/array-partition/): 先排序后偶数下标之和，就是感觉和双指针没有关系呢？
 3. [167. 两数之和 II - 输入有序数组](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/): 没什么难度，双指针飘过
 
 技巧二：快慢指针，两个指针通向移动，前提也基本需要给数组排序：
+
 1. [27. 移除元素](https://leetcode.cn/problems/remove-element/): 没什么难度，代码简单，思路简单，快慢指针搞定
-2. [485. 最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/): 也基本简单，就是长度判断以及 ++ 的时候出了点小问题，问题不大
-3. [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)：滑动窗口，边界问题搞定就好，两层 for 循环，看似复杂其实简单
+2. [485. 最大连续 1 的个数](https://leetcode.cn/problems/max-consecutive-ones/): 也基本简单，就是长度判断以及 ++
+   的时候出了点小问题，问题不大
+3. [209. 长度最小的子数组](https://leetcode.cn/problems/minimum-size-subarray-sum/)：滑动窗口，边界问题搞定就好，两层 for
+   循环，看似复杂其实简单
