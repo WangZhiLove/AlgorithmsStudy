@@ -79,6 +79,7 @@
    二分查找的变种，学到了在没有相等判断的时候，边界问题需要重新考虑
 4. [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/):
    快慢指针解决，思路没有问题，但是写出来的代码还是千差万别，最后还有一个可优化的地方，就是复制元素的时候如果距离为 1 就不需要复制
+5. [283. 移动零](https://leetcode.cn/problems/move-zeroes/): 
 
 ### 字符串
 
