@@ -64,3 +64,5 @@ z
 Jsrc/main/java/com/algorithms/wz/skills/pointer/MinimumSizeSubarraySum.java,5/5/55fb5e4bc21ab58d2aadcd723f5af1fa26a47db4
 K
 src/test/java/MainTest.java,9/8/989ce762b4969b8a93ccc8fbdb6f514755f283f5
+v
+Fsrc/main/java/com/algorithms/wz/data/structure/array/BinarySearch.java,f/3/f30cf6bfbda4582c24c2b7da3410a2b3c0e99f24
