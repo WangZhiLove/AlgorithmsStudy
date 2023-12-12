@@ -1,6 +1,5 @@
 package com.algorithms.wz.data.structure.array;
 
-import java.util.Arrays;
 
 /**
  * <a href="https://leetcode-cn.com/problems/find-the-middle-index-in-numsay/">1991. 找到数组的中间位置</a>
