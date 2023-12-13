@@ -68,3 +68,7 @@ v
 Fsrc/main/java/com/algorithms/wz/data/structure/array/BinarySearch.java,f/3/f30cf6bfbda4582c24c2b7da3410a2b3c0e99f24
 w
 Gsrc/main/java/com/algorithms/wz/data/structure/array/RemoveElement.java,2/e/2e56149d73f77e5d7dac6a7f36eda3340e684165
+
+Osrc/main/java/com/algorithms/wz/data/structure/array/SquaresOfASortedArray.java,5/d/5dcde90b058405ac0a15b643d38a67383c2d4edc
+€
+Psrc/main/java/com/algorithms/wz/data/structure/array/MinimumSizeSubarraySum.java,7/c/7c074bdc115ecccbf568ceb54aece3be68893c0a
