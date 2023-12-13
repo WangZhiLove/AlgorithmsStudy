@@ -12,7 +12,7 @@ public class BinarySearch {
     }
 
     /**
-     * 题目要求使用二分查找，二分查找最关键的就是边界问题，考虑清楚什么时候加一减一就好
+     * 题目要求使用二分查找，二分查找最关键的就是边界问题，考虑清楚什么时候加一减一就好，减一加一的关键在于区间是左闭右闭还是左闭右开
      * 我这边的想法是 left 为 0， right 为最大索引，然后取中间值，因为题目中已经排好序，所以这边不用重复排序
      * 根据中间值判断就有三中情况：
      * 1. 相等，则返回索引
@@ -33,6 +33,25 @@ public class BinarySearch {
                 left = middle + 1;
             } else {
                 right = middle - 1;
+            }
+        }
+        return -1;
+    }
+
+    /**
+     * 左闭右开 的写法
+     */
+    public static int search2(int[] nums, int target) {
+        int left = 0, right = nums.length;
+        while (left < right) {
+            int middle = (left + right) / 2;
+            if (nums[middle] == target) {
+                return middle;
+            }
+            if (nums[middle] < target) {
+                left = middle + 1;
+            } else {
+                right = middle;
             }
         }
         return -1;
