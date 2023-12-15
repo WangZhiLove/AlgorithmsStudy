@@ -74,3 +74,7 @@ Osrc/main/java/com/algorithms/wz/data/structure/array/SquaresOfASortedArray.java
 Psrc/main/java/com/algorithms/wz/data/structure/array/MinimumSizeSubarraySum.java,7/c/7c074bdc115ecccbf568ceb54aece3be68893c0a
 x
 Hsrc/main/java/com/algorithms/wz/data/structure/array/SpiralMatrixII.java,e/0/e044e358424ec0bbc1d3f39307911bf4344e3541
+‡
+Wsrc/main/java/com/algorithms/wz/data/structure/linkedlist/RemoveLinkedListElements.java,7/c/7c9754d75324b68aa586ecdf16e40a5c0d67e430
+w
+Gsrc/main/java/com/algorithms/wz/data/structure/linkedlist/ListNode.java,3/7/37efa8d2f75f1c4f2391d54aa1f3339c7866bca5
