@@ -84,3 +84,5 @@ Osrc/main/java/com/algorithms/wz/data/structure/linkedlist/DesignLinkedList.java
 Ksrc/main/java/com/algorithms/wz/data/structure/linkedlist/MyLinkedList.java,c/0/c0d0da426be3842b1c30224db30c6c7cad83bb18
 |
 Lsrc/main/java/com/algorithms/wz/data/structure/linkedlist/MyLinkedList2.java,c/4/c464713623008ab6d055ca3392c7032686e9934a
+€
+Psrc/main/java/com/algorithms/wz/data/structure/linkedlist/ReverseLinkedList.java,8/1/8195bb7bf23647c5d7f0bd0ee21f40a6132a3f4a
