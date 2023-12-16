@@ -88,3 +88,5 @@ Lsrc/main/java/com/algorithms/wz/data/structure/linkedlist/MyLinkedList2.java,c
 Psrc/main/java/com/algorithms/wz/data/structure/linkedlist/ReverseLinkedList.java,8/1/8195bb7bf23647c5d7f0bd0ee21f40a6132a3f4a
 
 Osrc/main/java/com/algorithms/wz/data/structure/linkedlist/SwapNodesInPairs.java,4/d/4df0d129c3421e8c8b348909060f856209f4dff0
+‰
+Ysrc/main/java/com/algorithms/wz/data/structure/linkedlist/RemoveNthNodeFromEndOfList.java,7/c/7cd5656da365634deb4b954ec59549d04bf5a949
