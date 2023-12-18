@@ -78,8 +78,6 @@ Hsrc/main/java/com/algorithms/wz/data/structure/array/SpiralMatrixII.java,e/0/e
 Wsrc/main/java/com/algorithms/wz/data/structure/linkedlist/RemoveLinkedListElements.java,7/c/7c9754d75324b68aa586ecdf16e40a5c0d67e430
 w
 Gsrc/main/java/com/algorithms/wz/data/structure/linkedlist/ListNode.java,3/7/37efa8d2f75f1c4f2391d54aa1f3339c7866bca5
-
-Osrc/main/java/com/algorithms/wz/data/structure/linkedlist/DesignLinkedList.java,4/e/4e410b0336f07e9633d4b4c60b9f47f100b74cdb
 {
 Ksrc/main/java/com/algorithms/wz/data/structure/linkedlist/MyLinkedList.java,c/0/c0d0da426be3842b1c30224db30c6c7cad83bb18
 |
@@ -98,3 +96,5 @@ u
 Esrc/main/java/com/algorithms/wz/data/structure/hash/ValidAnagram.java,b/f/bfab5fc860e88b2947d8ef75dc9b4b617e5e22d3
 €
 Psrc/main/java/com/algorithms/wz/data/structure/hash/IntersectionOfTwoArrays.java,0/1/01b6efa6e2b02d29075dc7a012f10fc76a5985cd
+t
+Dsrc/main/java/com/algorithms/wz/data/structure/hash/HappyNumber.java,9/a/9a31f13b533b95519178fae00e5da2668f6b17c0
