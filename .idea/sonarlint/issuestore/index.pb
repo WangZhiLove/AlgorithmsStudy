@@ -104,3 +104,7 @@ r
 Bsrc/main/java/com/algorithms/wz/data/structure/hash/FourSumII.java,b/5/b51e69e4811eb677129e0b5c3a7f37fe887af8e7
 s
 Csrc/main/java/com/algorithms/wz/data/structure/hash/RansomNote.java,0/d/0dfe610c362958d009808f8d04d0d589fab9cd0f
+q
+Asrc/main/java/com/algorithms/wz/data/structure/hash/ThreeSum.java,0/f/0fbbc51f77e09b5a6dc63ec1edc3b370d8d81d94
+p
+@src/main/java/com/algorithms/wz/data/structure/hash/FourSum.java,c/1/c126cfd3596ad8fed0aff6b263a8cb84f12e0305
