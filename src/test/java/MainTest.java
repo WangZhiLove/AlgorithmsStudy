@@ -3,8 +3,11 @@ import java.util.*;
 public class MainTest {
 
     public static void main(String[] args) {
-        List<List<Integer>> lists = threeSum(new int[] {-1, 0, 1, 2, -1, -4, -2, -3, 3, 0, 4});
-        System.out.println(lists.size());
+        int sum = 1000000000 + 1000000000;
+        sum += 1000000000;
+        System.out.println(sum);
+        System.out.println(Integer.MAX_VALUE);
+        System.out.println(Long.MAX_VALUE);
     }
 
     public static List<List<Integer>> threeSum(int[] nums) {
