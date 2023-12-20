@@ -116,3 +116,5 @@ w
 Gsrc/main/java/com/algorithms/wz/data/structure/str/ReplaceNumClass.java,5/e/5e4a37dc9dc56d044bcdfb300f83c121cca2fb39
 }
 Msrc/main/java/com/algorithms/wz/data/structure/str/ReverseWordsInAString.java,8/4/84a31a0b16b3212836c5cc9d75f211af33612497
+€
+Psrc/main/java/com/algorithms/wz/data/structure/str/RepeatedSubstringPattern.java,1/4/143d702560cd932402fd80df480ab608ad7e4993
