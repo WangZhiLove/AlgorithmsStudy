@@ -112,3 +112,7 @@ u
 Esrc/main/java/com/algorithms/wz/data/structure/str/ReverseString.java,b/3/b35464be05ee2857a2ebe85cdde8a2212ce2d37c
 w
 Gsrc/main/java/com/algorithms/wz/data/structure/str/ReverseStringII.java,4/5/45cee6dd2ee5c6dec289758f61826b7bfbc9595e
+w
+Gsrc/main/java/com/algorithms/wz/data/structure/str/ReplaceNumClass.java,5/e/5e4a37dc9dc56d044bcdfb300f83c121cca2fb39
+}
+Msrc/main/java/com/algorithms/wz/data/structure/str/ReverseWordsInAString.java,8/4/84a31a0b16b3212836c5cc9d75f211af33612497
