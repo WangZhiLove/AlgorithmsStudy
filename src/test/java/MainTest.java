@@ -3,11 +3,7 @@ import java.util.*;
 public class MainTest {
 
     public static void main(String[] args) {
-        int sum = 1000000000 + 1000000000;
-        sum += 1000000000;
-        System.out.println(sum);
-        System.out.println(Integer.MAX_VALUE);
-        System.out.println(Long.MAX_VALUE);
+
     }
 
     public static List<List<Integer>> threeSum(int[] nums) {

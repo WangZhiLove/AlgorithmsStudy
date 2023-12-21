@@ -32,14 +32,13 @@ public class RepeatedSubstringPattern {
     }
 
     /**
-     * 枚举，只需要枚举一半就可以
+     * 我们将两个 sss 连在一起，并移除第一个和最后一个字符。如果 sss 是该字符串的子串，那么 sss 就满足题目要求。证明必要性可能需要参考 KMP 算法。
      *
      * @param s
      * @return
      */
     public boolean repeatedSubstringPatter2(String s) {
-
-        return false;
+        return (s + s).indexOf(s, 1) != s.length();
     }
 
 }
