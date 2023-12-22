@@ -118,3 +118,7 @@ Gsrc/main/java/com/algorithms/wz/data/structure/str/ReplaceNumClass.java,5/e/5e
 Msrc/main/java/com/algorithms/wz/data/structure/str/ReverseWordsInAString.java,8/4/84a31a0b16b3212836c5cc9d75f211af33612497
 €
 Psrc/main/java/com/algorithms/wz/data/structure/str/RepeatedSubstringPattern.java,1/4/143d702560cd932402fd80df480ab608ad7e4993
+ƒ
+Ssrc/main/java/com/algorithms/wz/data/structure/stack/ImplementQueueUsingStacks.java,c/8/c8a1d07193c93402bfc0890bf0dea4da314a2606
+ƒ
+Ssrc/main/java/com/algorithms/wz/data/structure/queue/ImplementStackUsingQueues.java,6/e/6e1bfc97334bf0a227bb19472171035da82b42bb
