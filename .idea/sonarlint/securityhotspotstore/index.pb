@@ -128,3 +128,5 @@ Jsrc/main/java/com/algorithms/wz/data/structure/stack/ValidParentheses.java,e/b
 ]src/main/java/com/algorithms/wz/data/structure/stack/RemoveAllAdjacentDuplicatesInString.java,9/2/925db030c9b2dd0c2f85d56bb7f5fcadecc4dbb4
 ‡
 Wsrc/main/java/com/algorithms/wz/data/structure/stack/EvaluateReversePolishNotation.java,0/5/05cd47e47af76a0c3d6d625eeabeb597da144bc3
+~
+Nsrc/main/java/com/algorithms/wz/data/structure/queue/SlidingWindowMaximum.java,6/5/65625a63c89adf6e3f7f2773e6b638b8107c75cf
