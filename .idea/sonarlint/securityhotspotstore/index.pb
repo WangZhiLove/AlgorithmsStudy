@@ -126,3 +126,5 @@ z
 Jsrc/main/java/com/algorithms/wz/data/structure/stack/ValidParentheses.java,e/b/eb3bd37601bd1dec8811eada461ba2f044834d38
 ç
 ]src/main/java/com/algorithms/wz/data/structure/stack/RemoveAllAdjacentDuplicatesInString.java,9/2/925db030c9b2dd0c2f85d56bb7f5fcadecc4dbb4
+á
+Wsrc/main/java/com/algorithms/wz/data/structure/stack/EvaluateReversePolishNotation.java,0/5/05cd47e47af76a0c3d6d625eeabeb597da144bc3
