@@ -142,3 +142,7 @@ q
 Asrc/main/java/com/algorithms/wz/data/structure/tree/TreeNode.java,8/7/8781738b03dec97fa8b3aa72a7ba63fbcca6f84a
 v
 Fsrc/main/java/com/algorithms/wz/data/structure/tree/SymmetricTree.java,d/5/d5cf7642b26ee84b4c2d028df2da456e205401bb
+Å
+Qsrc/main/java/com/algorithms/wz/data/structure/tree/MaximumDepthOfBinaryTree.java,c/1/c1d2b7f17890a17f3ba6ef1b42c417803f67db53
+
+Osrc/main/java/com/algorithms/wz/data/structure/tree/MaximumDepthOfNAryTree.java,f/7/f7b76f885c052bf0282e1d6e02cb061f78d2d709
