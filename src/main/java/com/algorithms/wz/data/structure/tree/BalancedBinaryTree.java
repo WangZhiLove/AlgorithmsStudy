@@ -1,7 +1,7 @@
 package com.algorithms.wz.data.structure.tree;
 
 /**
- * <a href="https://leetcode-cn.com/problems/count-complete-tree-nodes/">222. 完全二叉树的节点个数</a>
+ * <a href="https://leetcode-cn.com/problems/balanced-binary-tree/">110. 平衡二叉树</a>
  * 给定一个二叉树，判断它是否是高度平衡的二叉树。
  * <p>
  * 本题中，一棵高度平衡二叉树定义为：
