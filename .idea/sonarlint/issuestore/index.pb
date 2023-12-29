@@ -152,3 +152,5 @@ Qsrc/main/java/com/algorithms/wz/data/structure/tree/MinimumDepthOfBinaryTree.ja
 Osrc/main/java/com/algorithms/wz/data/structure/tree/CountCompleteTreeNodes.java,0/9/09169e069b4ae4aeb64294937ea6c34664b1f175
 {
 Ksrc/main/java/com/algorithms/wz/data/structure/tree/BalancedBinaryTree.java,b/c/bc84c70b5fb85f49844f203da902bbded93184bc
+x
+Hsrc/main/java/com/algorithms/wz/data/structure/tree/BinaryTreePaths.java,7/f/7ffe4e7118db3f471637596134cac6501ec31073
