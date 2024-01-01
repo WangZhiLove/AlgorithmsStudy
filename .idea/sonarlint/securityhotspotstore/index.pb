@@ -168,3 +168,5 @@ lsrc/main/java/com/algorithms/wz/data/structure/tree/ConstructBinaryTreeFromInor
 ksrc/main/java/com/algorithms/wz/data/structure/tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.java,1/5/1526fadc4b28e113b394e46d1b88de8885e6b3c5
 z
 Jsrc/main/java/com/algorithms/wz/data/structure/tree/MaximumBinaryTree.java,9/c/9c5ba21edab9ff97decc683e5dce4debfd93aee4
+|
+Lsrc/main/java/com/algorithms/wz/data/structure/tree/MergeTwoBinaryTrees.java,2/0/2021382c7503d44ae3159373841cbe764e3850ed
