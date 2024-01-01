@@ -170,3 +170,5 @@ z
 Jsrc/main/java/com/algorithms/wz/data/structure/tree/MaximumBinaryTree.java,9/c/9c5ba21edab9ff97decc683e5dce4debfd93aee4
 |
 Lsrc/main/java/com/algorithms/wz/data/structure/tree/MergeTwoBinaryTrees.java,2/0/2021382c7503d44ae3159373841cbe764e3850ed
+‚
+Rsrc/main/java/com/algorithms/wz/data/structure/tree/SearchInABinarySearchTree.java,b/6/b629d3962f8845adf123faa60818c3a99de1ad45
