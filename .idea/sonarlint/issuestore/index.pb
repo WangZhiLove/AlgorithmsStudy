@@ -174,3 +174,5 @@ Lsrc/main/java/com/algorithms/wz/data/structure/tree/MergeTwoBinaryTrees.java,2
 Rsrc/main/java/com/algorithms/wz/data/structure/tree/SearchInABinarySearchTree.java,b/6/b629d3962f8845adf123faa60818c3a99de1ad45
 Å
 Qsrc/main/java/com/algorithms/wz/data/structure/tree/ValidateBinarySearchTree.java,d/7/d78d479f5bab74f7e2bc1bac5d1f7d0fd949b9c0
+á
+Wsrc/main/java/com/algorithms/wz/data/structure/tree/MinimumAbsoluteDifferenceInBst.java,9/b/9b2bf8cdd8a9f48d0e5fc0a45d8a45c54a865ecd
