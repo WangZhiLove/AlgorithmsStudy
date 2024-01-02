@@ -176,3 +176,7 @@ Rsrc/main/java/com/algorithms/wz/data/structure/tree/SearchInABinarySearchTree.j
 Qsrc/main/java/com/algorithms/wz/data/structure/tree/ValidateBinarySearchTree.java,d/7/d78d479f5bab74f7e2bc1bac5d1f7d0fd949b9c0
 ‡
 Wsrc/main/java/com/algorithms/wz/data/structure/tree/MinimumAbsoluteDifferenceInBst.java,9/b/9b2bf8cdd8a9f48d0e5fc0a45d8a45c54a865ecd
+ƒ
+Ssrc/main/java/com/algorithms/wz/data/structure/tree/FindModeInBinarySearchTree.java,0/0/0000ea20c24c1bb28f5ef9a366b997254de8f7ca
+Š
+Zsrc/main/java/com/algorithms/wz/data/structure/tree/LowestCommonAncestorOfABinaryTree.java,f/c/fca61847c8bbbf535e32e5065141dd6fb9f789d7
