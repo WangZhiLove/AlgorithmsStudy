@@ -182,3 +182,5 @@ Ssrc/main/java/com/algorithms/wz/data/structure/tree/FindModeInBinarySearchTree.
 Zsrc/main/java/com/algorithms/wz/data/structure/tree/LowestCommonAncestorOfABinaryTree.java,f/c/fca61847c8bbbf535e32e5065141dd6fb9f789d7
 ê
 `src/main/java/com/algorithms/wz/data/structure/tree/LowestCommonAncestorOfABinarySearchTree.java,0/e/0e1cf985d7716b65fb28807ae5d6fcd94f0c8a48
+Ñ
+Tsrc/main/java/com/algorithms/wz/data/structure/tree/InsertIntoABinarySearchTree.java,e/f/ef66bf6b6e41dcd4295f4f0ec4f63fd7228e8fad
