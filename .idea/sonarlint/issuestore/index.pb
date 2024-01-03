@@ -186,3 +186,5 @@ Zsrc/main/java/com/algorithms/wz/data/structure/tree/LowestCommonAncestorOfABina
 Tsrc/main/java/com/algorithms/wz/data/structure/tree/InsertIntoABinarySearchTree.java,e/f/ef66bf6b6e41dcd4295f4f0ec4f63fd7228e8fad
 y
 Isrc/main/java/com/algorithms/wz/data/structure/tree/DeleteNodeInABst.java,1/b/1bbe23d4caa0ca6734fbd4a149bcf54307b6fb82
+~
+Nsrc/main/java/com/algorithms/wz/data/structure/tree/TrimABinarySearchTree.java,9/a/9aad29b2878f156d893b14645483129603758590
