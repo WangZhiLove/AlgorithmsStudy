@@ -194,3 +194,5 @@ Nsrc/main/java/com/algorithms/wz/data/structure/tree/TrimABinarySearchTree.java
 Psrc/main/java/com/algorithms/wz/data/structure/tree/ConvertBstToGreaterTree.java,5/1/5159d4894e50421a1006aa08e1bd694cb85c7760
 u
 Esrc/main/java/com/algorithms/wz/skills/backtracking/Combinations.java,2/a/2ad10747c1e1732972cbab689acba72eb001d85d
+z
+Jsrc/main/java/com/algorithms/wz/skills/backtracking/CombinationSumIII.java,f/8/f86e5ed5b465372508757608dc8bed72b5799f37
