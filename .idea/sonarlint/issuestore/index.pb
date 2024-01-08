@@ -202,3 +202,5 @@ w
 Gsrc/main/java/com/algorithms/wz/skills/backtracking/CombinationSum.java,0/e/0e3db01a1afebd41bef098becc9c75c798df6269
 y
 Isrc/main/java/com/algorithms/wz/skills/backtracking/CombinationSumII.java,8/1/81c1c994ecbca7765e0c7d9b5a3eec16518d16c5
+
+Osrc/main/java/com/algorithms/wz/skills/backtracking/PalindromePartitioning.java,2/c/2c319f85f0ec36ec25acd7b9511bc3d0dabb42f2
