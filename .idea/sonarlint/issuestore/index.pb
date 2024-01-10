@@ -218,3 +218,5 @@ w
 Gsrc/main/java/com/algorithms/wz/skills/backtracking/PermutationsII.java,8/f/8fe40b8619d8cb4ea2721a6b83fffff8747b1573
 }
 Msrc/main/java/com/algorithms/wz/skills/backtracking/ReconstructItinerary.java,5/e/5e62173d89d370e9df0952d5da39b194760c7bfc
+p
+@src/main/java/com/algorithms/wz/skills/backtracking/NQueens.java,0/1/01c9b0a5d6d1ad02223c0bc3e9188bca0d9e918d
