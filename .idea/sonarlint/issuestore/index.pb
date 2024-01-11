@@ -222,3 +222,5 @@ p
 @src/main/java/com/algorithms/wz/skills/backtracking/NQueens.java,0/1/01c9b0a5d6d1ad02223c0bc3e9188bca0d9e918d
 u
 Esrc/main/java/com/algorithms/wz/skills/backtracking/SudokuSolver.java,f/4/f44544768441f511dfc1c0b688a30ed2ef9be7b5
+v
+Fsrc/main/java/com/algorithms/wz/skills/backtracking/AssignCookies.java,c/e/ce8749429bfea74189e6c4f3324a8ff33191d994
