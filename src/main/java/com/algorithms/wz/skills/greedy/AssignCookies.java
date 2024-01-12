@@ -1,4 +1,4 @@
-package com.algorithms.wz.skills.backtracking;
+package com.algorithms.wz.skills.greedy;
 
 import java.util.Arrays;
 

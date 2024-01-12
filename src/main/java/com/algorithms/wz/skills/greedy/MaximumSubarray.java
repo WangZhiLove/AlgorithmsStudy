@@ -1,4 +1,4 @@
-package com.algorithms.wz.skills.backtracking;
+package com.algorithms.wz.skills.greedy;
 
 /**
  * <a href="https://leetcode.cn/problems/maximum-subarray/description/">53. 最大子序和 </a>

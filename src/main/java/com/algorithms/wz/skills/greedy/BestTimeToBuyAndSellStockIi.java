@@ -1,4 +1,4 @@
-package com.algorithms.wz.skills.backtracking;
+package com.algorithms.wz.skills.greedy;
 
 /**
  * <a href="https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/description/">122. 买卖股票的最佳时机 II</a>

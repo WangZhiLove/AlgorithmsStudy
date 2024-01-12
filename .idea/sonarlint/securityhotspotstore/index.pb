@@ -230,3 +230,15 @@ x
 Hsrc/main/java/com/algorithms/wz/skills/backtracking/MaximumSubarray.java,f/9/f9f2810ba8cbded3d940030921e8cc4403f2af07
 „
 Tsrc/main/java/com/algorithms/wz/skills/backtracking/BestTimeToBuyAndSellStockIi.java,d/0/d059893f2ac23ae5d399cf8151a7cc2c2a8514c3
+q
+Asrc/main/java/com/algorithms/wz/skills/backtracking/JumpGame.java,a/5/a51d5d2bcc5de3e165e1d502003c96ff397d8d31
+k
+;src/main/java/com/algorithms/wz/skills/greedy/JumpGame.java,f/5/f59e9c97099e1c1336c84cfdec7cce2cc87cec0c
+p
+@src/main/java/com/algorithms/wz/skills/greedy/AssignCookies.java,9/7/97a0b4a93fc76dc08516574d6b26a69552120eda
+t
+Dsrc/main/java/com/algorithms/wz/skills/greedy/WiggleSubsequence.java,3/2/32e1364d806c8808a0edc3104d757a14aa88a45e
+r
+Bsrc/main/java/com/algorithms/wz/skills/greedy/MaximumSubarray.java,0/4/04d062cd9a9e5009d3ec85a3ad93a1da9d6804dc
+~
+Nsrc/main/java/com/algorithms/wz/skills/greedy/BestTimeToBuyAndSellStockIi.java,f/3/f3f271b4ae1dfffbab8cefaa6c0286ca01d9567e

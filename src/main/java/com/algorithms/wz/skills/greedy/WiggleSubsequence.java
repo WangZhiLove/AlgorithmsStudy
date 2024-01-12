@@ -1,4 +1,4 @@
-package com.algorithms.wz.skills.backtracking;
+package com.algorithms.wz.skills.greedy;
 
 /**
  * <a href="https://leetcode.cn/problems/wiggle-subsequence/description/">376. 摆动序列</a>
