@@ -226,3 +226,5 @@ v
 Fsrc/main/java/com/algorithms/wz/skills/backtracking/AssignCookies.java,c/e/ce8749429bfea74189e6c4f3324a8ff33191d994
 z
 Jsrc/main/java/com/algorithms/wz/skills/backtracking/WiggleSubsequence.java,6/4/64e8cce99ec7156ff593a57d175fffc5d3fe5e20
+x
+Hsrc/main/java/com/algorithms/wz/skills/backtracking/MaximumSubarray.java,f/9/f9f2810ba8cbded3d940030921e8cc4403f2af07
