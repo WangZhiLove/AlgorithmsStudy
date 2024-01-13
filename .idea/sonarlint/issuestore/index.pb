@@ -242,3 +242,7 @@ r
 Bsrc/main/java/com/algorithms/wz/skills/greedy/MaximumSubarray.java,0/4/04d062cd9a9e5009d3ec85a3ad93a1da9d6804dc
 ~
 Nsrc/main/java/com/algorithms/wz/skills/greedy/BestTimeToBuyAndSellStockIi.java,f/3/f3f271b4ae1dfffbab8cefaa6c0286ca01d9567e
+s
+Csrc/main/java/com/algorithms/wz/skills/backtracking/JumpGameII.java,e/2/e2ce46796e474ad39dbf097ceecc65ce9c5da138
+m
+=src/main/java/com/algorithms/wz/skills/greedy/JumpGameII.java,b/a/bae8f12174d2cbdebfb05926a6d94f0c8de27c08
