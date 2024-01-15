@@ -240,3 +240,5 @@ m
 =src/main/java/com/algorithms/wz/skills/greedy/GasStation.java,d/0/d03e14fabaa55b0e0fbbbe4928d2bd4238028342
 „
 Tsrc/main/java/com/algorithms/wz/skills/greedy/MaximizeSumOfArrayAfterKNegations.java,3/8/38e6c357146e86c713bbc421653e9a192fc63191
+q
+Asrc/main/java/com/algorithms/wz/skills/greedy/LemonadeChange.java,4/d/4d1c719e23bbbe474d43b5b008e8d6a70712be7a
