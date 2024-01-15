@@ -222,16 +222,6 @@ p
 @src/main/java/com/algorithms/wz/skills/backtracking/NQueens.java,0/1/01c9b0a5d6d1ad02223c0bc3e9188bca0d9e918d
 u
 Esrc/main/java/com/algorithms/wz/skills/backtracking/SudokuSolver.java,f/4/f44544768441f511dfc1c0b688a30ed2ef9be7b5
-v
-Fsrc/main/java/com/algorithms/wz/skills/backtracking/AssignCookies.java,c/e/ce8749429bfea74189e6c4f3324a8ff33191d994
-z
-Jsrc/main/java/com/algorithms/wz/skills/backtracking/WiggleSubsequence.java,6/4/64e8cce99ec7156ff593a57d175fffc5d3fe5e20
-x
-Hsrc/main/java/com/algorithms/wz/skills/backtracking/MaximumSubarray.java,f/9/f9f2810ba8cbded3d940030921e8cc4403f2af07
-„
-Tsrc/main/java/com/algorithms/wz/skills/backtracking/BestTimeToBuyAndSellStockIi.java,d/0/d059893f2ac23ae5d399cf8151a7cc2c2a8514c3
-q
-Asrc/main/java/com/algorithms/wz/skills/backtracking/JumpGame.java,a/5/a51d5d2bcc5de3e165e1d502003c96ff397d8d31
 k
 ;src/main/java/com/algorithms/wz/skills/greedy/JumpGame.java,f/5/f59e9c97099e1c1336c84cfdec7cce2cc87cec0c
 p
@@ -242,7 +232,7 @@ r
 Bsrc/main/java/com/algorithms/wz/skills/greedy/MaximumSubarray.java,0/4/04d062cd9a9e5009d3ec85a3ad93a1da9d6804dc
 ~
 Nsrc/main/java/com/algorithms/wz/skills/greedy/BestTimeToBuyAndSellStockIi.java,f/3/f3f271b4ae1dfffbab8cefaa6c0286ca01d9567e
-s
-Csrc/main/java/com/algorithms/wz/skills/backtracking/JumpGameII.java,e/2/e2ce46796e474ad39dbf097ceecc65ce9c5da138
 m
 =src/main/java/com/algorithms/wz/skills/greedy/JumpGameII.java,b/a/bae8f12174d2cbdebfb05926a6d94f0c8de27c08
+h
+8src/main/java/com/algorithms/wz/skills/greedy/Candy.java,d/b/db2bfe3bf85a7feb2f78c047333f89f5c8cf02ce
