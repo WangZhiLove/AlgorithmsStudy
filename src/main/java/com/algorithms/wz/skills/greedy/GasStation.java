@@ -76,6 +76,7 @@ public class GasStation {
             if (cnt == n) {
                 return result;
             } else {
+                // 点睛之笔
                 result = result + cnt + 1;
             }
         }
