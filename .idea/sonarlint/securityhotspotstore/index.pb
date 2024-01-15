@@ -236,3 +236,5 @@ m
 =src/main/java/com/algorithms/wz/skills/greedy/JumpGameII.java,b/a/bae8f12174d2cbdebfb05926a6d94f0c8de27c08
 h
 8src/main/java/com/algorithms/wz/skills/greedy/Candy.java,d/b/db2bfe3bf85a7feb2f78c047333f89f5c8cf02ce
+m
+=src/main/java/com/algorithms/wz/skills/greedy/GasStation.java,d/0/d03e14fabaa55b0e0fbbbe4928d2bd4238028342
