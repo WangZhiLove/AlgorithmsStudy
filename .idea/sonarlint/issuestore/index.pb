@@ -250,3 +250,5 @@ q
 Asrc/main/java/com/algorithms/wz/skills/greedy/MergeIntervals.java,9/b/9bd91d5378eb7e40c8e795aaa2eb9ef771db95e7
 r
 Bsrc/main/java/com/algorithms/wz/skills/greedy/PartitionLabels.java,1/c/1c93f7a8c180597a5c059c581746c2fdc658eb9a
+z
+Jsrc/main/java/com/algorithms/wz/skills/greedy/NonOverlappingIntervals.java,5/e/5e7dcc4c290a70781e3709243c7f7e4f75c77766
