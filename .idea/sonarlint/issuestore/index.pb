@@ -246,3 +246,5 @@ Asrc/main/java/com/algorithms/wz/skills/greedy/LemonadeChange.java,4/d/4d1c719e
 Nsrc/main/java/com/algorithms/wz/skills/greedy/QueueReconstructionByHeight.java,9/5/95879513259e4fd6b44cf7a84ae7c1727575ed6e
 ‡
 Wsrc/main/java/com/algorithms/wz/skills/greedy/MinimumNumberOfArrowsToBurstBalloons.java,0/a/0a7ab96b112577385a3812bb89e8c7a064e74d2a
+q
+Asrc/main/java/com/algorithms/wz/skills/greedy/MergeIntervals.java,9/b/9bd91d5378eb7e40c8e795aaa2eb9ef771db95e7
