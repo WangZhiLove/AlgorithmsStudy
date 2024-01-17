@@ -252,3 +252,5 @@ r
 Bsrc/main/java/com/algorithms/wz/skills/greedy/PartitionLabels.java,1/c/1c93f7a8c180597a5c059c581746c2fdc658eb9a
 z
 Jsrc/main/java/com/algorithms/wz/skills/greedy/NonOverlappingIntervals.java,5/e/5e7dcc4c290a70781e3709243c7f7e4f75c77766
+{
+Ksrc/main/java/com/algorithms/wz/skills/greedy/MonotoneIncreasingDigits.java,7/7/77484a00667720765a9262661b58f37a547cd330
