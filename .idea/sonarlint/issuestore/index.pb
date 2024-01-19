@@ -258,3 +258,5 @@ M
 src/test/java/TestEntity.java,3/a/3ad00c26dd56dd467d87c1807d3f67abf76b62e4
 n
 >src/main/java/com/algorithms/wz/skills/dp/FibonacciNumber.java,3/d/3dc016135e42deaa707874a83731a0778f0f5681
+m
+=src/main/java/com/algorithms/wz/skills/dp/ClimbingStairs.java,9/b/9b59705d331ab7dbdd3b39c44b99b6c80ec55d5d
