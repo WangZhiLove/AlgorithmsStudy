@@ -260,3 +260,5 @@ n
 >src/main/java/com/algorithms/wz/skills/dp/FibonacciNumber.java,3/d/3dc016135e42deaa707874a83731a0778f0f5681
 m
 =src/main/java/com/algorithms/wz/skills/dp/ClimbingStairs.java,9/b/9b59705d331ab7dbdd3b39c44b99b6c80ec55d5d
+t
+Dsrc/main/java/com/algorithms/wz/skills/dp/MinCostClimbingStairs.java,4/7/472c6efe881b57fe9752bfcb0167d302895d3fcf
