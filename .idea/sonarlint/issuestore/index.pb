@@ -266,3 +266,5 @@ j
 :src/main/java/com/algorithms/wz/skills/dp/UniquePaths.java,b/5/b56a27e02bd39701ce7f7f4f51e6d9bce2743fca
 l
 <src/main/java/com/algorithms/wz/skills/dp/UniquePathsII.java,1/6/161a3d2abc9fca37755a1acfc5d8fea56da99ee9
+k
+;src/main/java/com/algorithms/wz/skills/dp/IntegerBreak.java,c/8/c8123148194d53327671c2ce2d7caf6b131d1940
