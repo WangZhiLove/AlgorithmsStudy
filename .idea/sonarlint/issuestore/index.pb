@@ -270,3 +270,5 @@ k
 ;src/main/java/com/algorithms/wz/skills/dp/IntegerBreak.java,c/8/c8123148194d53327671c2ce2d7caf6b131d1940
 v
 Fsrc/main/java/com/algorithms/wz/skills/dp/UniqueBinarySearchTrees.java,f/0/f073568d3b59b6d0cf293ca7332b0528027d0744
+v
+Fsrc/main/java/com/algorithms/wz/skills/dp/PartitionEqualSubsetSum.java,3/b/3b12b4e774cbe28d646820d56c9340a88649c01d
