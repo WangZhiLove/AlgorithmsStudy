@@ -12,7 +12,7 @@ public class MainTest {
     }
 
     /**
-     * 递归求解n数之和
+     * 递归求解n数之和，几个测试
      *
      * @param nums   数组
      * @param num    n数之和
