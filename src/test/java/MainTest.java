@@ -3,7 +3,9 @@ import java.util.*;
 public class MainTest {
 
     public static void main(String[] args) {
-        System.out.println(1 - 'A' + 1);
+        String str = "online";
+        int i = "online".indexOf(str);
+        System.out.println(i);
     }
 
     public static List<List<Integer>> threeSum(int[] nums) {
