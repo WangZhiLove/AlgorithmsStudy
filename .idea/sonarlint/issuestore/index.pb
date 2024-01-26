@@ -284,3 +284,5 @@ o
 ?src/main/java/com/algorithms/wz/skills/dp/CombinationSumIv.java,b/b/bbe41373b636d69273b114ce9fa4c28ffa6a3955
 i
 9src/main/java/com/algorithms/wz/skills/dp/CoinChange.java,8/f/8f1645793415fa3a44cebd7131abae506f2334ed
+m
+=src/main/java/com/algorithms/wz/skills/dp/PerfectSquares.java,9/6/9625626b3751d0ace9eebdba801a376a82d0b232
