@@ -37,4 +37,24 @@ public class ClimbingStairs {
         return dp[n];
     }
 
+    /**
+     * 使用动规五部曲来做一遍，写出来的代码一样，但是思路更加清晰了
+     */
+    public int climbStairs2(int n) {
+        if (n <= 2) {
+            return n;
+        }
+        // 声明 dp 数组，索引就是 n 阶，阶层，值就是达到阶层的不同种走法
+        int[] dp = new int[n + 1];
+        // 找出递推公式，这里每次只能走一阶或者两阶，所以 dp[i] = dp[i - 1] + dp[i - 2]
+        // 初始化，这里需要初始化 dp[1] 和 dp[2]
+        dp[1] = 1;
+        dp[2] = 2;
+        // 遍历
+        for (int i = 3; i < dp.length; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+        return dp[n];
+    }
+
 }
