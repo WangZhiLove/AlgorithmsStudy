@@ -4,7 +4,7 @@ public class MainTest {
 
     public static void main(String[] args) {
         String str = "online";
-        int i = "online".indexOf(str);
+        int i = str.indexOf("ne");
         System.out.println(i);
     }
 
