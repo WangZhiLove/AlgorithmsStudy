@@ -288,3 +288,5 @@ m
 =src/main/java/com/algorithms/wz/skills/dp/PerfectSquares.java,9/6/9625626b3751d0ace9eebdba801a376a82d0b232
 h
 8src/main/java/com/algorithms/wz/skills/dp/WordBreak.java,e/9/e9cdc55d08d802feb05409d0d07349b4fb4be801
+j
+:src/main/java/com/algorithms/wz/skills/dp/HouseRobber.java,4/a/4a09a13c8a19271ea66e690ff1b7548aa4ac414a
