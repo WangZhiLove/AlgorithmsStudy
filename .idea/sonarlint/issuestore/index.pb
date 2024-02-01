@@ -306,3 +306,5 @@ Jsrc/main/java/com/algorithms/wz/skills/dp/BestTimeToBuyAndSellStockIV.java,f/6
 Tsrc/main/java/com/algorithms/wz/skills/dp/BestTimeToBuyAndSellStockWithCooldown.java,8/a/8ac8ca6c82bd06c7aa971b73cda6405ee6852d1e
 Š
 Zsrc/main/java/com/algorithms/wz/skills/dp/BestTimeToBuyAndSellStockWithTransactionFee.java,f/4/f49ae739e167b61eba4517d5a2cc21ef96e4098e
+{
+Ksrc/main/java/com/algorithms/wz/skills/dp/LongestIncreasingSubsequence.java,0/3/03cba25f1a7a6ecd09abc3803ae1d071ec6b51b3
