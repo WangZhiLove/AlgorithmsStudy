@@ -1,6 +1,5 @@
 package com.algorithms.wz.skills.dp;
 
-import java.util.Arrays;
 
 /**
  * <a href="https://leetcode.cn/problems/delete-operation-for-two-strings/description/">583. 两个字符串的删除操作</a>
