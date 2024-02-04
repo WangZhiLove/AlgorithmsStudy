@@ -322,3 +322,5 @@ l
 <src/main/java/com/algorithms/wz/skills/dp/IsSubsequence.java,4/5/45ed52155f0ed76a92d0c912fbfea7c3f2f168af
 s
 Csrc/main/java/com/algorithms/wz/skills/dp/DistinctSubsequences.java,9/d/9d6aba73193db79e6d680fcf14586b8fc38ef991
+{
+Ksrc/main/java/com/algorithms/wz/skills/dp/DeleteOperationForTwoStrings.java,d/d/ddba2237277922960db756ca38adab972d6f5a58
