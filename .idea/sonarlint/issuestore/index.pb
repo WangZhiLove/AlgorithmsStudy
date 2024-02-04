@@ -316,3 +316,7 @@ w
 Gsrc/main/java/com/algorithms/wz/skills/dp/LongestCommonSubsequence.java,b/7/b7493c2739f1ce80b05d4c4410a85020102e17af
 m
 =src/main/java/com/algorithms/wz/skills/dp/UncrossedLines.java,f/3/f3d534ef17e3cb53c8d835114cad30f9d5780858
+n
+>src/main/java/com/algorithms/wz/skills/dp/MaximumSubarray.java,7/7/77ac7129f03d3324bb879ab02e3df97bdc8d792c
+l
+<src/main/java/com/algorithms/wz/skills/dp/IsSubsequence.java,4/5/45ed52155f0ed76a92d0c912fbfea7c3f2f168af
