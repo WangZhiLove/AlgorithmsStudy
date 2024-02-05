@@ -3,8 +3,8 @@ import java.util.*;
 public class MainTest {
 
     public static void main(String[] args) {
-        String str = "online";
-        int i = str.indexOf("ne");
+        String str = "onnline";
+        int i = str.indexOf(str.charAt(1), 2);
         System.out.println(i);
     }
 

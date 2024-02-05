@@ -328,3 +328,5 @@ k
 ;src/main/java/com/algorithms/wz/skills/dp/EditDistance.java,b/f/bf705e61e165c91c1f570ffc5979cdcad5fbae51
 t
 Dsrc/main/java/com/algorithms/wz/skills/dp/PalindromicSubstrings.java,a/5/a5f3490743904544023fa86d3b7733842feaa76b
+|
+Lsrc/main/java/com/algorithms/wz/skills/dp/LongestPalindromicSubsequence.java,c/5/c5a390f49d6f1e098aae224b7f991a89b471f85b
