@@ -332,3 +332,5 @@ Dsrc/main/java/com/algorithms/wz/skills/dp/PalindromicSubstrings.java,a/5/a5f34
 Lsrc/main/java/com/algorithms/wz/skills/dp/LongestPalindromicSubsequence.java,c/5/c5a390f49d6f1e098aae224b7f991a89b471f85b
 |
 Lsrc/main/java/com/algorithms/wz/skills/monotone/stack/DailyTemperatures.java,6/1/61d6f9a51d0dfbbb16c57cad69c015b6a6040e52
+~
+Nsrc/main/java/com/algorithms/wz/skills/monotone/stack/NextGreaterElementI.java,b/6/b6abd995eec1864e0417ab0fd0372b782cc7ba1d
