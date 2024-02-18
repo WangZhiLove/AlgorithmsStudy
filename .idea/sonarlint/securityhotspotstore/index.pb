@@ -334,3 +334,7 @@ Lsrc/main/java/com/algorithms/wz/skills/dp/LongestPalindromicSubsequence.java,c
 Lsrc/main/java/com/algorithms/wz/skills/monotone/stack/DailyTemperatures.java,6/1/61d6f9a51d0dfbbb16c57cad69c015b6a6040e52
 ~
 Nsrc/main/java/com/algorithms/wz/skills/monotone/stack/NextGreaterElementI.java,b/6/b6abd995eec1864e0417ab0fd0372b782cc7ba1d
+s
+Csrc/main/java/com/algorithms/wz/one/day/year24/month2/Question.java,9/c/9c821495395a736e0afb10baf97d7a0355970b32
+„
+Tsrc/main/java/com/algorithms/wz/one/day/year24/month2/NAryTreePreorderTraversal.java,8/6/86fc67a53f264e111450fc7bf7645059567eb6e7
