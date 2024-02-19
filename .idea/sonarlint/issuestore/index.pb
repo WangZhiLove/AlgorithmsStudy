@@ -338,3 +338,5 @@ s
 Csrc/main/java/com/algorithms/wz/one/day/year24/month2/Question.java,9/c/9c821495395a736e0afb10baf97d7a0355970b32
 „
 Tsrc/main/java/com/algorithms/wz/one/day/year24/month2/NAryTreePreorderTraversal.java,8/6/86fc67a53f264e111450fc7bf7645059567eb6e7
+…
+Usrc/main/java/com/algorithms/wz/one/day/year24/month2/NAryTreePostorderTraversal.java,e/6/e6c35a32b39a60626629b4f9282e90a354f9e86a
