@@ -1,11 +1,20 @@
+import java.time.Duration;
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.*;
 
 public class MainTest {
 
     public static void main(String[] args) {
-        String str = "onnline";
+        /*String str = "onnline";
         int i = str.indexOf(str.charAt(1), 2);
-        System.out.println(i);
+        System.out.println(i);*/
+        Duration between = Duration.between(LocalDateTime.of(2024, 1, 9, 0, 0), LocalDateTime.of(2025, 1, 9, 0, 0));
+        System.out.println(between.toDays());
+        // 计算两个日期相差的天数
+        LocalDate start = LocalDate.of(2024, 1, 9);
+        LocalDate end = LocalDate.of(2025, 1, 9);
+        System.out.println(Duration.between(start.atStartOfDay(), end.atStartOfDay()).toDays());
     }
 
     public static List<List<Integer>> threeSum(int[] nums) {
@@ -46,10 +55,10 @@ public class MainTest {
                     result.add(new ArrayList<>(Arrays.asList(left, right)));
                     // 去重
                     while (lIndex < rIndex && nums[lIndex] == left) {
-                        lIndex ++;
+                        lIndex++;
                     }
                     while (lIndex < rIndex && nums[rIndex] == right) {
-                        rIndex --;
+                        rIndex--;
                     }
                 }
             }
@@ -61,7 +70,8 @@ public class MainTest {
                     integers.add(nums[i]);
                     result.add(integers);
                 }
-                while (i < nums.length - 1 && nums[i] == nums[i + 1]) i++;
+                while (i < nums.length - 1 && nums[i] == nums[i + 1])
+                    i++;
             }
         }
         return result;
