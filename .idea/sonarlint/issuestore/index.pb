@@ -346,3 +346,5 @@ nsrc/main/java/com/algorithms/wz/one/day/year24/month2/ConstructBinaryTreeFromIn
 osrc/main/java/com/algorithms/wz/one/day/year24/month2/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java,8/5/854a5c3753c5b7ab315474ece78f1e1c6e21fc85
 …
 Usrc/main/java/com/algorithms/wz/one/day/year24/month2/KthLargestSumInABinaryTree.java,e/5/e5c398de592c3020d223bb3cddfb89b14c034b50
+‘
+asrc/main/java/com/algorithms/wz/one/day/year24/month2/ClosestNodesQueriesInABinarySearchTree.java,1/d/1d54d973e158767cb6afc82b0fbb01140d91558d
