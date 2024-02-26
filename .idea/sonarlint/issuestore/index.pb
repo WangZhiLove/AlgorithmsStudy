@@ -350,3 +350,5 @@ Usrc/main/java/com/algorithms/wz/one/day/year24/month2/KthLargestSumInABinaryTre
 asrc/main/java/com/algorithms/wz/one/day/year24/month2/ClosestNodesQueriesInABinarySearchTree.java,1/d/1d54d973e158767cb6afc82b0fbb01140d91558d
 ’
 bsrc/main/java/com/algorithms/wz/one/day/year24/month2/LowestCommonAncestorOfABinarySearchTree.java,b/5/b579239894bc967127d300c07a24de25c57477f0
+x
+Hsrc/main/java/com/algorithms/wz/one/day/year24/month2/RangeSumOfBst.java,6/3/63b5ba9867942a1f073828418af744b2615151e4
