@@ -356,3 +356,7 @@ Hsrc/main/java/com/algorithms/wz/one/day/year24/month2/RangeSumOfBst.java,6/3/6
 Qsrc/main/java/com/algorithms/wz/one/day/year24/month2/CountValidPathsInATree.java,b/f/bf219740d83d0507823e787cb57c904578e46e42
 ç
 ]src/main/java/com/algorithms/wz/one/day/year24/month2/MakeCostsOfPathsEqualInABinaryTree.java,0/3/031c80cbd02f238005c8c7eeb3c566637da95ca9
+z
+Jsrc/main/java/com/algorithms/wz/one/day/year24/month2/OnlineStockSpan.java,d/a/daccde428b293ab5f148b5a1b9c39bb754858202
+â
+Ysrc/main/java/com/algorithms/wz/one/day/year24/month2/CountNumberOfPossibleRootNodes.java,e/c/ec3e12c8dab974f2606ae09a77e9210e9362ff66
