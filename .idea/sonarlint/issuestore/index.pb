@@ -360,3 +360,5 @@ z
 Jsrc/main/java/com/algorithms/wz/one/day/year24/month2/OnlineStockSpan.java,d/a/daccde428b293ab5f148b5a1b9c39bb754858202
 ‰
 Ysrc/main/java/com/algorithms/wz/one/day/year24/month2/CountNumberOfPossibleRootNodes.java,e/c/ec3e12c8dab974f2606ae09a77e9210e9362ff66
+“
+csrc/main/java/com/algorithms/wz/one/day/year24/month3/CheckIfThereIsAValidPartitionForTheArray.java,7/6/76b391431a8df335168d5b1110fe4ee62d957aee
