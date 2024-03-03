@@ -364,3 +364,5 @@ Ysrc/main/java/com/algorithms/wz/one/day/year24/month2/CountNumberOfPossibleRoot
 csrc/main/java/com/algorithms/wz/one/day/year24/month3/CheckIfThereIsAValidPartitionForTheArray.java,7/6/76b391431a8df335168d5b1110fe4ee62d957aee
 ‰
 Ysrc/main/java/com/algorithms/wz/one/day/year24/month3/ReachableNodesWithRestrictions.java,6/4/644dafbd312725734e09b88183bfb185ba0830c8
+„
+Tsrc/main/java/com/algorithms/wz/one/day/year24/month3/ImplementStackUsingQueues.java,d/4/d443f91c93f449126417e28fb4e51010675f8141
