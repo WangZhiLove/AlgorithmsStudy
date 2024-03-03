@@ -366,3 +366,5 @@ csrc/main/java/com/algorithms/wz/one/day/year24/month3/CheckIfThereIsAValidParti
 Ysrc/main/java/com/algorithms/wz/one/day/year24/month3/ReachableNodesWithRestrictions.java,6/4/644dafbd312725734e09b88183bfb185ba0830c8
 „
 Tsrc/main/java/com/algorithms/wz/one/day/year24/month3/ImplementStackUsingQueues.java,d/4/d443f91c93f449126417e28fb4e51010675f8141
+„
+Tsrc/main/java/com/algorithms/wz/one/day/year24/month3/ImplementQueueUsingStacks.java,e/a/ea780265f239e7f9b5f359f8b70e92117a84830a
