@@ -372,3 +372,5 @@ Tsrc/main/java/com/algorithms/wz/one/day/year24/month3/ImplementQueueUsingStacks
 \src/main/java/com/algorithms/wz/one/day/year24/month3/NumberOfWaysToArriveAtDestination.java,c/8/c8bc6348d54bd1a42b1a4e24407932ec497939d5
 ~
 Nsrc/main/java/com/algorithms/wz/one/day/year24/month3/FindTheKOrOfAnArray.java,9/8/981da3cbbb85ad3bf6f1a475a26f6f2ec3453efe
+Œ
+\src/main/java/com/algorithms/wz/one/day/year24/month3/FindTheDivisibilityArrayOfAString.java,e/5/e5da8bbffdf28da4e3ac53f48c7dc123c2b5ca22
