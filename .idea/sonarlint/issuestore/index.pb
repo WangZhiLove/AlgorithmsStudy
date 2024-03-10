@@ -374,3 +374,5 @@ Tsrc/main/java/com/algorithms/wz/one/day/year24/month3/ImplementQueueUsingStacks
 Nsrc/main/java/com/algorithms/wz/one/day/year24/month3/FindTheKOrOfAnArray.java,9/8/981da3cbbb85ad3bf6f1a475a26f6f2ec3453efe
 Œ
 \src/main/java/com/algorithms/wz/one/day/year24/month3/FindTheDivisibilityArrayOfAString.java,e/5/e5da8bbffdf28da4e3ac53f48c7dc123c2b5ca22
+w
+Gsrc/main/java/com/algorithms/wz/one/day/year24/month3/BullsAndCows.java,d/6/d634ebd4c0425b7e1d595b7d77bd0dc43475cd1f
