@@ -376,3 +376,5 @@ Nsrc/main/java/com/algorithms/wz/one/day/year24/month3/FindTheKOrOfAnArray.java
 \src/main/java/com/algorithms/wz/one/day/year24/month3/FindTheDivisibilityArrayOfAString.java,e/5/e5da8bbffdf28da4e3ac53f48c7dc123c2b5ca22
 w
 Gsrc/main/java/com/algorithms/wz/one/day/year24/month3/BullsAndCows.java,d/6/d634ebd4c0425b7e1d595b7d77bd0dc43475cd1f
+}
+Msrc/main/java/com/algorithms/wz/one/day/year24/month3/CapitalizeTheTitle.java,2/5/25579a3b363bf9dffe4bcae35c095fa68f9ff599
