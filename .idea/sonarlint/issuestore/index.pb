@@ -380,3 +380,5 @@ Gsrc/main/java/com/algorithms/wz/one/day/year24/month3/BullsAndCows.java,d/6/d6
 Msrc/main/java/com/algorithms/wz/one/day/year24/month3/CapitalizeTheTitle.java,2/5/25579a3b363bf9dffe4bcae35c095fa68f9ff599
 ê
 `src/main/java/com/algorithms/wz/one/day/year24/month3/FindElementsInAContaminatedBinaryTree.java,b/c/bc524edcc3c01739ddf3327769225a3cdfad8ff8
+Å
+Qsrc/main/java/com/algorithms/wz/one/day/year24/month3/MaximumOddBinaryNumber.java,9/6/96800a60bada6c6594b1c800d78702d05cc1713f
