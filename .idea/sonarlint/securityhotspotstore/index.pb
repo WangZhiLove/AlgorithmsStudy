@@ -386,3 +386,5 @@ Qsrc/main/java/com/algorithms/wz/one/day/year24/month3/MaximumOddBinaryNumber.ja
 fsrc/main/java/com/algorithms/wz/one/day/year24/month3/LargestElementInAnArrayAfterMergeOperations.java,2/9/29ec9b657babb7f1c0175c728b285c5023647e39
 Ü
 Vsrc/main/java/com/algorithms/wz/one/day/year24/month3/MaximumNumberOfMovesInAGrid.java,1/8/189863891eae5b26d8412fd843e20e576fc4c26b
+Å
+Qsrc/main/java/com/algorithms/wz/one/day/year24/month3/RangeSumQueryImmutable.java,9/8/98ad7c2a0a04209e7aba9713045ba9cc255b13a7
